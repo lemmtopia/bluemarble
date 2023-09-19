@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\source",
+    "\\source\\deps",
+    "\\source\\deps\\stb",
     "\\source\\out"
   ],
-  "SelectedNode": "\\source",
+  "SelectedNode": "\\source\\main.cpp",
   "PreviewInSolutionExplorer": false
 }

@@ -1,5 +1,8 @@
 # ninja log v5
-4	2091	7168526283825317	CMakeFiles/BlueMarble.dir/main.cpp.obj	854641733cbda058
-2093	4111	7168526301638991	BlueMarble.exe	d9777bf5856b1aa8
 89	1648	7168527248593620	CMakeFiles/BlueMarble.dir/main.cpp.obj	854641733cbda058
 1650	2860	7168527259365832	BlueMarble.exe	d9777bf5856b1aa8
+1432	24194	7168554486612759	build.ninja	412d6ab8cb7ef3ee
+1	2040	7168555861666433	CMakeFiles/BlueMarble.dir/main.cpp.obj	ba90829adbd350d0
+2066	6076	7168555896625195	BlueMarble.exe	38fff8ce7f2929af
+9	521	7168557479766384	CMakeFiles/BlueMarble.dir/main.cpp.obj	ba90829adbd350d0
+522	1262	7168557485117139	BlueMarble.exe	38fff8ce7f2929af
