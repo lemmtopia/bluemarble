@@ -8,4 +8,4 @@ target_include_directories(BlueMarble PRIVATE deps/glm deps/stb deps/glfw/includ
 
 target_link_directories(BlueMarble PRIVATE deps/glfw/lib-vc2022 deps/glew/lib/Release/x64)
 
-target_link_libraries(BlueMarble PRIVATE glfw3.lib glew32.lib)
+target_link_libraries(BlueMarble PRIVATE glfw3.lib glew32.lib glew32s.lib opengl32.lib)

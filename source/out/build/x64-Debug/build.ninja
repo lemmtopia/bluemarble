@@ -68,7 +68,7 @@ build CMakeFiles\BlueMarble.dir\main.cpp.obj: CXX_COMPILER__BlueMarble_unscanned
 build BlueMarble.exe: CXX_EXECUTABLE_LINKER__BlueMarble_Debug CMakeFiles\BlueMarble.dir\main.cpp.obj
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
-  LINK_LIBRARIES = glfw3.lib  glew32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  LINK_LIBRARIES = glfw3.lib  glew32.lib  glew32s.lib  opengl32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
   LINK_PATH = -LIBPATH:C:\Users\gabri\Documents\GitHub\bluemarble\source\deps\glfw\lib-vc2022   -LIBPATH:C:\Users\gabri\Documents\GitHub\bluemarble\source\deps\glew\lib\Release\x64
   OBJECT_DIR = CMakeFiles\BlueMarble.dir
   POST_BUILD = cd .

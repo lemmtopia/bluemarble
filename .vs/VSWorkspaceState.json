@@ -3,9 +3,15 @@
     "",
     "\\source",
     "\\source\\deps",
-    "\\source\\deps\\stb",
-    "\\source\\out"
+    "\\source\\deps\\glew",
+    "\\source\\deps\\glew\\bin",
+    "\\source\\deps\\glew\\bin\\Release",
+    "\\source\\deps\\glew\\bin\\Release\\Win32",
+    "\\source\\deps\\glew\\bin\\Release\\x64",
+    "\\source\\deps\\glew\\lib",
+    "\\source\\deps\\glew\\lib\\Release",
+    "\\source\\deps\\glew\\lib\\Release\\x64"
   ],
-  "SelectedNode": "\\source\\main.cpp",
+  "SelectedNode": "\\source\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }
